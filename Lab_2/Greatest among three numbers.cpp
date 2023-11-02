@@ -7,7 +7,7 @@ int main(){
 	{
 	printf("%d is the greatest among these three numbers",a);
 	}
-	if(b>a && b>c)
+	else if(b>a && b>c)
 	{
 	printf("%d is the greatest among these three numbers",b);
 	}
